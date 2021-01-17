@@ -4,6 +4,8 @@
 
 Installs the newest version of Melonloader and emmVRC mods into installation folder.
 
+This is an easy way to get a ''modded client'' in Vrchat, without prior knowledge of the required tools.
+
 **Installation Guide**:
 1. Put .bat file into VRchat installation directory.
 2. Run .bat file and it will install Melonloader and emmVRC.
