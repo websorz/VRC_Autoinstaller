@@ -2,7 +2,7 @@
 
 **PURPOSE**:
 
-Installs the newest version of Melonloader and emmVRC mods into vrchat installation folder.
+Installs the newest version of Melonloader and emmVRC mods into installation folder.
 
 This is an easy way to get a ''modded client'' in Vrchat, without prior knowledge of the required tools.
 
